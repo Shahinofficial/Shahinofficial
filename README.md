@@ -1,7 +1,5 @@
 ### Hi there 👋, I am Md Shahin
 #### A passionate frontend developer and Professional Digital Marketer
-![A passionate frontend developer and Professional Digital Marketer](https://scontent.fdac148-1.fna.fbcdn.net/v/t39.30808-6/307976498_118392554352720_2079561944345485228_n.png?stp=dst-png_s960x960&_nc_cat=111&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeGva-tPP0bg0Dppzh6N7DA9GuubZ-X1efMa65tn5fV5883_Dm_M8DHYmlt11JkMwer7Io914lgJi8nC12UMpMah&_nc_ohc=QcQ10KIviJcAX_5B-Mh&_nc_ht=scontent.fdac148-1.fna&oh=00_AT_-dCMWjYYgrZeGBQEcI_ZUmx1VJl0B_t7kTcgHoNnlFQ&oe=635D2352)
-
 I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include ReactJS, JavaScript as well as PHP.
 
 Skills: JS / HTML / CSS
